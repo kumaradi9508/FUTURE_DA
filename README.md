@@ -98,6 +98,6 @@ Below is a sample **dashboard** built in Power BI to present insights interactiv
 ## Author
  **Aditya Kumar**  
 - Data Analyst | Data Scientist  
--  [GitHub](https://github.com/Harriet-ngomo)  
+-  [GitHub](https://github.com/kumaradi9508/FUTURE_DA/tree/main)  
 
 ✨ *Transforming raw student feedback into actionable insights for better learning outcomes.*  
