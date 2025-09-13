@@ -94,8 +94,8 @@ Below is a sample **dashboard** built in Power BI to present insights interactiv
 ---
 
 ## Author
- **Harriet Ngomo**  
-- Data Analyst | Data Scientist | Economic Analyst  
--  [GitHub](https://github.com/Harriet-ngomo)  
+ **Aditya Kumar**  
+- Data Analyst | Data Scientist  
+-  [GitHub]()  
 
 ✨ *Transforming raw student feedback into actionable insights for better learning outcomes.*  
