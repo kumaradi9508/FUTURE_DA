@@ -1,5 +1,5 @@
 # FUTURE_DA
-[README.md](https://github.com/user-attachments/files/22308971/README.md)
+
 # 🎓 Student Satisfaction Survey Analysis
 
 
